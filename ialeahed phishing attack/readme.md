@@ -1,7 +1,7 @@
 ### **Hackers Abuse Milanote’s Legitimate Service for Phishing – Dutch Variant Detected**  
 ```Date: 30-JAN-2025```
 
-[Threat Intelligence Lab](https://threatintelligencelab.com) and [SecureMe2](https://secureme2.eu) have observed **a Dutch phishing campaign exploiting Milanote’s legitimate service**, following earlier reports from Avanan. While **Milanote itself is not a malicious platform**, cybercriminals are **abusing its trusted infrastructure** to deceive victims.  
+[Threat Intelligence Lab](https://threatintelligencelab.com) and [SecureMe2](https://secureme2.eu) have observed **a Dutch phishing campaign exploiting Milanote’s legitimate service**, following earlier reports from [Checkpoint](https://emailsecurity.checkpoint.com/blog/new-attack-leverages-milanote-to-host-phishing-content). While **Milanote itself is not a malicious platform**, cybercriminals are **abusing its trusted infrastructure** to deceive victims.  
 
 ### **How the Attack Works**  
 Attackers **scrape LinkedIn** for target information and then send fake Milanote invitations from **support at milanote.com**. Because the email originates from **a legitimate Milanote domain**, it easily **bypasses security filters**.  
