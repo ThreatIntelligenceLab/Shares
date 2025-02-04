@@ -1,4 +1,5 @@
-# Seems to be related to: https://github.com/tdragon6/Supershell/releases
+# Related
+- Seems to be related to: https://github.com/tdragon6/Supershell/releases
 
 ```
 https://1.14.104.62:8888/supershell/login
